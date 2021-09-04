@@ -1,0 +1,6 @@
+module Pods_NativeToDoNekoyashiki_NativeToDoNekoyashikiTests {
+  umbrella header "Pods-NativeToDoNekoyashiki-NativeToDoNekoyashikiTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

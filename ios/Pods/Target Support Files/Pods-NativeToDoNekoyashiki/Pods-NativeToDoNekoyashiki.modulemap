@@ -1,0 +1,6 @@
+module Pods_NativeToDoNekoyashiki {
+  umbrella header "Pods-NativeToDoNekoyashiki-umbrella.h"
+
+  export *
+  module * { export * }
+}
